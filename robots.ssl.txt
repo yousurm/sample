@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://beloved-role-053588.framer.app/sitemap.xml
+Sitemap: https://key-designs-367565.framer.app/sitemap.xml
